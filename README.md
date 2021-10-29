@@ -4,7 +4,6 @@
 ## Live site  https://rent-car-jackieyu.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/80301375/139199278-6e87979b-ee43-48ba-bfd6-e428f784b36f.png)
-![image](https://user-images.githubusercontent.com/80301375/139199335-17b4b870-c343-467b-a258-69ea9fc51112.png)
 
 
 # Getting Started with Create React App
