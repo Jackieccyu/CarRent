@@ -1,9 +1,9 @@
 
 # Car Rent
 
-## Live site  https://rent-car-jackieyu.netlify.app/
+## Live site  https://maple-car-rent-jakieyu.netlify.app/
 
-![image](https://user-images.githubusercontent.com/80301375/139199278-6e87979b-ee43-48ba-bfd6-e428f784b36f.png)
+![image](https://user-images.githubusercontent.com/80301375/141224688-3d067045-4ceb-4ef4-93fe-8b1b73445217.png)
 
 
 # Getting Started with Create React App
